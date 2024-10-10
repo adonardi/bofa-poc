@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bofa-poc-uservalidation", "bofa-poc\bofa-poc-uservalidation.csproj", "{4A23FCBD-CD20-4430-B4EC-9DEE990338C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bofa-poc-di", "bofa-poc-di\bofa-poc-di.csproj", "{3EFFD3FA-CF1A-4747-BB33-7B419BCFE5CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bofa-poc-factory", "bofa-poc-factory\bofa-poc-factory.csproj", "{0E7BF3CA-AEC1-48FB-8462-5D1D0F4047E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bofa-poc-observation", "bofa-poc-observation\bofa-poc-observation.csproj", "{C490CEEC-2580-4BC1-8E02-B09E92888E6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bofa-poc-singleton", "bofa-poc-singleton\bofa-poc-singleton.csproj", "{5E736DE4-2A52-4BEE-BD2C-C2412CF71EF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bofa-poc-uservalidation-test", "bofa-poc-uservalidation-test\bofa-poc-uservalidation-test.csproj", "{67BE6ADD-DE2A-429B-BE13-394E29BE66D8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{55B9757A-2820-4170-8EB8-1227687E4721}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A23FCBD-CD20-4430-B4EC-9DEE990338C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A23FCBD-CD20-4430-B4EC-9DEE990338C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A23FCBD-CD20-4430-B4EC-9DEE990338C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A23FCBD-CD20-4430-B4EC-9DEE990338C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EFFD3FA-CF1A-4747-BB33-7B419BCFE5CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EFFD3FA-CF1A-4747-BB33-7B419BCFE5CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EFFD3FA-CF1A-4747-BB33-7B419BCFE5CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EFFD3FA-CF1A-4747-BB33-7B419BCFE5CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E7BF3CA-AEC1-48FB-8462-5D1D0F4047E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E7BF3CA-AEC1-48FB-8462-5D1D0F4047E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E7BF3CA-AEC1-48FB-8462-5D1D0F4047E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E7BF3CA-AEC1-48FB-8462-5D1D0F4047E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C490CEEC-2580-4BC1-8E02-B09E92888E6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C490CEEC-2580-4BC1-8E02-B09E92888E6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C490CEEC-2580-4BC1-8E02-B09E92888E6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C490CEEC-2580-4BC1-8E02-B09E92888E6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E736DE4-2A52-4BEE-BD2C-C2412CF71EF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E736DE4-2A52-4BEE-BD2C-C2412CF71EF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E736DE4-2A52-4BEE-BD2C-C2412CF71EF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E736DE4-2A52-4BEE-BD2C-C2412CF71EF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67BE6ADD-DE2A-429B-BE13-394E29BE66D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67BE6ADD-DE2A-429B-BE13-394E29BE66D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67BE6ADD-DE2A-429B-BE13-394E29BE66D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67BE6ADD-DE2A-429B-BE13-394E29BE66D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E44BBEDC-7B1C-404E-8D82-77B20BA3DB84}
+	EndGlobalSection
+EndGlobal
